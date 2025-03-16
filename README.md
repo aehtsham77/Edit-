@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as an Information Technology Assistant at Mughal Eye Hospital Trust.<br>I'm looking to collaborate on 3D Web Designing Projects.<br>I'm Looking for someone to help me deal with some Concepts of reactjs.<br>I'm Currently learning Web Designing from an online source.<br>You can ask me anything about software installation and management.<br>I also like be a muscular person.
+I'm currently working as an Information Technology Assistant at Mughal Eye Hospital Trust.<br>I'm looking to collaborate on 3D Web Designing Projects.<br>I'm Looking for someone to help me deal with some Concepts of Python Framewoks.<br>I'm Currently learning Web Designing from an online source.<br>You can ask me anything about software installation and management.<br>I also like be a muscular person.
 
 
 ## 🌐 Socials:
